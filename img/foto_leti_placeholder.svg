@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520">
+  <rect width="520" height="520" rx="56" fill="#f0ede8"/>
+  <circle cx="260" cy="205" r="82" fill="#d7d0c8"/>
+  <path d="M110 440c26-92 91-142 150-142s124 50 150 142" fill="#d7d0c8"/>
+  <text x="260" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#5c5147">foto_leti.jpg</text>
+</svg>
